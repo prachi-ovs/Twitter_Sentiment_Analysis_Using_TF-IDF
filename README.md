@@ -1,4 +1,4 @@
-# Twitter_Sentiment_Analysis_Using_TF-IDF
+# Sentiment Analysis of tweets for airlines using Random Forest classification
 
 <b> Libraries to import: </b>
 
