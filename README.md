@@ -1,4 +1,4 @@
-# Sentiment Analysis of tweets for airlines using Random Forest classification
+# Sentiment Analysis of Airline tweets using Random Forest classification
 
 <b> Libraries to import: </b>
 
